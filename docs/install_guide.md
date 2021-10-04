@@ -953,8 +953,7 @@ this manual, we’ll assume the files were extracted to C:\\VizAlerts.
 </td>
 <td width="444">
 <p>This is ANY user licensed in Tableau Server--it does not need to be an Admin, as it is only used in authenticating over HTTP.</p>
-<p>&middot; If you are using Active Directory authentication, prepend the domain name in front of the username, e.g. &ldquo;tableau.com\mcoles&rdquo;</p>
-<p>&middot; If you are using Local Authentication, simply supply the username, e.g., &ldquo;mcoles&rdquo;</p>
+<p>&middot; Regardless of Active Directory authentication or Local Authentication, simply supply the username, e.g., &ldquo;mcoles&rdquo;</p>
 </td>
 </tr>
 <tr>
